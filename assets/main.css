@@ -1,0 +1,16 @@
+
+#qoute{
+  font-size: 2.5rem; 
+  text-align : center
+}
+body{
+  
+  background: url('freedom.jpg') ;
+  background-size: cover;
+  margin : 100 px;
+  padding :  100px 600px;
+}
+#iro{
+	text-align : center;
+	font-size : 1.5rem;
+}
